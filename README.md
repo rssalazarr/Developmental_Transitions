@@ -1,4 +1,4 @@
-# Developmental Transitions
+### Developmental Transitions
 The Developmental Transitions model of dynamics of cognitive vulnerability and family support is a “proof of concept” model where the primary purpose is to demonstrate the feasibility of using system dynamics to develop feedback theories in developmental psychology. As such, the primary criterion for a good model is whether or not the model successfully illustrates how system dynamics could be used to develop feedback theories. 
 
 The model was developed using isee Stella Architect (version 2.1) to develop an interactive interface that can be shared online via isee Exchange and analyze the influence of loops using loop scores. Loop scores are a recent innovation for measure the impact of a feedback mechanism on the overall dynamic behavior of a system. 
